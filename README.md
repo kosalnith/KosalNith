@@ -1,6 +1,6 @@
-### Hi there 👋, weclome to Nith kosal
+### Hi there 👋, weclome to Nith Kosal
 
-Here are some things to know about kosal:
+Here are some things to know about Kosal:
 
 - 🔭 I’m currently working on the agricultural industry in Cambodia.
 - 🌱 I’m currently learning MATLAB, Stata, and R program.

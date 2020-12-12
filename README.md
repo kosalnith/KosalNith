@@ -1,6 +1,6 @@
 ### Hi there 👋, weclome to Nith kosal
 
-Here are some ideas to get you started:
+Here are some things to know about kosal:
 
 - 🔭 I’m currently working on the agricultural industry in Cambodia.
 - 🌱 I’m currently learning MATLAB, Stata, and R program.

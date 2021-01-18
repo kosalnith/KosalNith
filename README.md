@@ -1,10 +1,10 @@
-### Hi there 👋, weclome to Nith Kosal
+### Hi there 👋, welcome to Nith Kosal
 
 Here are some things to know about Kosal:
 
-- 🔭 I’m currently working on the agricultural industry in Cambodia.
+- 🔭 I’m currently working in the macroeconomics policy and collecting datasets in Cambodia.
 - 🌱 I’m currently learning MATLAB, Stata, and R program.
-- 👯 I’m looking to collaborate on new research project in macroeconomics and COVID-19 policy responses and implications for economic future.
+- 👯 I’m looking to collaborate on a new research project in macroeconomics and COVID-19 policy responses and implications for the economic future.
 
 <!--
 **nithkosal/NithKosal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

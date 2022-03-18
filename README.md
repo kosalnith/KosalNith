@@ -2,9 +2,8 @@
 
 Here are some things to know about Kosal:
 
-- 🔭 I’m currently working in the macroeconomics policy and collecting datasets in Cambodia.
-- 🌱 I’m currently learning MATLAB, Stata, and R program.
-- 👯 I’m looking to collaborate on a new research project in macroeconomics and COVID-19 policy responses and implications for the economic future.
+- 🔭 I’m interesting to work on macroecnomics, economic growth, and economic uncertainty. 
+- 🌱 I’m currently learning MATLAB. 
 
 <!--
 **nithkosal/NithKosal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

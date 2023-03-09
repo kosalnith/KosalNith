@@ -1,9 +1,10 @@
-### Hi there 👋, welcome to Nith Kosal
+### Hi there 👋, welcome to Kosal Nith's home page at Github
 
-Here are some things to know about Kosal:
+Here are some things to know about me:
 
-- 🔭 I’m interesting to work on macroecnomics, economic growth, and economic uncertainty. 
+- 🔭 I'm a researcher and I work on macroeconomics, monetary economics, economic growth, and economic uncertainty. 
 - 🌱 I’m currently learning MATLAB. 
+- 🚨 Follow me on Twitter [@KosalNith](https://twitter.com/KosalNith)
 
 <!--
 **nithkosal/NithKosal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

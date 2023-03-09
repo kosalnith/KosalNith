@@ -2,7 +2,9 @@
 
 Here are some things to know about me:
 
-- 🔭 I'm a researcher and I work on macroeconomics, monetary economics, economic growth, and economic uncertainty. 
+- 🔭 I'm a researcher and I work on macroeconomics, monetary economics, economic growth, and economic uncertainty.
+- 📑 See my latest publications and activities here at my professional website: https://kosalnith.github.io.
+- 📰 I run a Econ Lab newsletter in which sharing opinions and articles related to my work: https://econlab.substack.com.
 - 🌱 I’m currently learning MATLAB. 
 - 🚨 Follow me on Twitter [@KosalNith](https://twitter.com/KosalNith)
 
